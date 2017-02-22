@@ -1,8 +1,20 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  width: 330px;
+}
+
 .green {
   background-color: green;
 }
 
-.col-xs-1.carre{
+.col-xs-1.carre {
   width: 2em;
   height: 2em;
+  margin: 0;
+}
+
+.row {
+  width: 330px;
+  margin: 0;
 }
